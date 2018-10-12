@@ -82,7 +82,7 @@ $$　R>70のとき $$
 
 $$  F_R = 0.95 + \frac{63.14}{R} -(2-8)$$
 　　d) この補正係数をa)の液体式から計算されたCv値に掛けたものを真のCv値として使用する。
-![キャプチャ.PNG](https://qiita-image-store.s3.amazonaws.com/0/171392/81bfc0f7-3aab-9557-736f-ac94e2f862ee.png)
+![キャプチャ.PNG](https://qiita-image-store.s3.amazonaws.com/0/171392/81bfc0f7-3aab-9557-736f-ac94e2f862ee.png){#fig:キャプチャ.png height=30mm}
 
 
 
