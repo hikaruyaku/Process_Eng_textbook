@@ -15,6 +15,12 @@ $$
 |バタフライ弁|20:1 ~ 30:1|EQ%|
 |ボール弁|100:1 ~ 300:1|EQ%|
 
+それぞれのバルブについて、断面図を下に示します。
+
+![各バルブの断面図](https://github.com/hikaruyaku/Process_Eng_textbook/blob/master/fig.2-1.png?raw=true)
+上記断面図は[KITZのH.P.](https://www.kitz.co.jp/kiso/type_index.html),[AzbilのH.P.](https://www.azbil.com/jp/product/factory/download/catalog-spec/SS1-8110-0530-14.pdf)から抜粋
+
+
 それぞれのバルブに関して説明します。
 
 - グローブ弁はコントロールバルブの中で最も汎用されているものです。出入口の中心線が一直線上にあります。構造から単座形と複座形がありますが、今は単座が一般的です。
