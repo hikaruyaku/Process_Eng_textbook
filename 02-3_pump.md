@@ -11,7 +11,7 @@
 「今あるポンプより何m高い場所へ送液できるか」  
 を示したものです。
 
-# 揚程の図
+![揚程の概念図](https://github.com/hikaruyaku/Process_Eng_textbook/blob/master/fig.2-4.png)
 
 式で示しますと  
 「吐出先のレベル」+「吐出配管の圧損」＋「吸込までのレベル」＋「吸込配管の圧損」になります。
@@ -40,7 +40,9 @@ $$
 
 　また、ポンプには色々な種類があります。工場に入っているものを見ると3種類に大別されます。
 
-# 化工便覧の図表を載せる
+![ポンプの適用目安](https://github.com/hikaruyaku/Process_Eng_textbook/blob/master/fig.2-5.png)
+
+上記図は化学工学便覧より抜粋
 
 |種類|適用先|例&Tips|
 |:---:|:---:|:---:|
@@ -59,9 +61,14 @@ $$
 <div style="page-break-before:always"></div>
 
 #### 2.2.2.2 性能曲線の読み方
-# 性能曲線図の図を張る(圧力損失のグラフも)
+![性能曲線図](https://github.com/hikaruyaku/Process_Eng_textbook/blob/master/fig.2-6.png)
+
+上記抜粋は[モノタロウH.P.](https://www.monotaro.com/s/pages/readingseries/pumpkiso_0301/)より
 
 　性能曲線図では、全揚程(Total head)という曲線があります。ここに注目します。これはどの程度昇圧するかを、揚程[m]換算で表したものです。通常は吐出圧力を流体の水頭換算したメートル数と揚程曲線がぶつかる点から下に下がった部分が流量を示しています。この「吐出圧力」と「揚程曲線」の交点は意味がある場所になります。
+
+![性能曲線と圧損との関係](https://github.com/hikaruyaku/Process_Eng_textbook/blob/master/fig.2-7.png)
+
 　実はこの **「吐出圧力」と「揚程曲線」の交点** は、 **「送り先の圧力損失とヘッド差」の流量依存の曲線**との交点になります。前者よりも後者の概念でおぼいておいて下さい。理由としては、
  - インバーターなどで全揚程の曲線が上下に移動したとしもて、圧力損失のグラフは変化しないので。
  - 吐出圧やSUC圧が不明だとしても、圧損の計算だけである程度判断がつく。
